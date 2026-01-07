@@ -1,0 +1,15 @@
+# Gradle
+.gradle/
+build/
+local.properties
+
+# C++ build cache
+app/.cxx/
+
+# IDE
+.idea/
+*.iml
+
+# React Native
+react-native/node_modules/
+react-native/package-lock.json
