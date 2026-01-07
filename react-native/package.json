@@ -8,7 +8,7 @@
   "dependencies": {
     "react": "19.1.0",
     "react-native": "0.80.0",
-    "rnapp-bundle": "file:../../cx_react-native/dist"
+    "rnapp-bundle": "file:../../dist"
   },
   "devDependencies": {
     "@react-native-community/cli": "19.0.0"
